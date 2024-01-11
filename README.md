@@ -11,4 +11,4 @@ Parameter variance:= things that are unmeasurable. Of all the skill levels of al
 
 prior:= prediction you make before you incorporate new information
 
-most important question: what does market think? incorporates 
+best prior will be from the market as it incorporates everyone's information
